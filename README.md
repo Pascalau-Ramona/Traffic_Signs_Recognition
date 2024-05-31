@@ -1,0 +1,1 @@
+The aim of the "Traffic_Signs_Recognition" project is to develop an automated system for recognizing traffic signs using machine learning techniques and convolutional neural networks (CNNs). This will contribute to improving driver assistance systems and autonomous vehicles by providing an efficient and accurate solution for detecting and classifying traffic signs.
